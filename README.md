@@ -1,5 +1,5 @@
 # RISC-Core-GYMS16
-## Instruction Set:-
+## Instruction Set Architecture
 ### Arithmetic Operations:
 1. **ADD:** Adds two registers and stores the result in a destination register.
    - *FORMAT* ![image](https://github.com/user-attachments/assets/52c91a7b-db5f-4a80-b6cd-3bd48747b371)
