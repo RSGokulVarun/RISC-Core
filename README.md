@@ -1,1 +1,2 @@
-# RISC-Core
+# RISC-Core-GYMS16
+GYMS ISA:
